@@ -1,0 +1,99 @@
+[
+  {
+    "project_id": "persistence-test",
+    "source_path": "~/brag-reels/projects/persistence-test",
+    "video_path": "output/ready/persistence-test.mp4",
+    "video_sha256": "949f1bbcebbefd8805985beac13c65132d2436021404411d0d6209505ef5b9bf",
+    "caption": "Persistence test caption",
+    "hashtags": [
+      "#test"
+    ],
+    "status": "PUBLISHED",
+    "created_at": "2026-09-25T16:38:43.086Z",
+    "attempted_at": "2026-09-25T16:43:04.270Z",
+    "published_at": "2026-09-25T16:43:16.727Z",
+    "error": null,
+    "duration_seconds": 20.2,
+    "note": "MANUAL_CONFIRM=true: Waiting for user confirmation immediately before Publish."
+  },
+  {
+    "project_id": "latent-spaces-brag-demo",
+    "source_path": "~/brag-reels/projects/brag-demo",
+    "video_path": "~/brag-reels/output/ready/latent-spaces-brag-demo.mp4",
+    "video_sha256": "",
+    "caption": "Built something new 🚀\n\nDemonstration repository configured for generating vertical promotional videos via `latent-spaces/brag`.\n\n#LatentSpacesBragDemo #buildinpublic #indiedev #technology #startup #opensource #developer #coding",
+    "hashtags": [
+      "#LatentSpacesBragDemo",
+      "#buildinpublic",
+      "#indiedev",
+      "#technology",
+      "#startup",
+      "#opensource",
+      "#developer",
+      "#coding"
+    ],
+    "status": "PENDING",
+    "created_at": "2026-09-25T16:38:46.810Z",
+    "attempted_at": null,
+    "published_at": null,
+    "error": null,
+    "duration_seconds": 20
+  },
+  {
+    "project_id": "fast-queue",
+    "source_path": "~/brag-reels/projects/fast-queue",
+    "video_path": "~/brag-reels/output/ready/fast-queue.mp4",
+    "video_sha256": "",
+    "caption": "Built something new 🚀\n\nHigh-throughput asynchronous memory queue with persistence and zero dependencies\n\n#fastqueue #buildinpublic #indiedev #technology #startup #opensource #developer #coding",
+    "hashtags": [
+      "#fastqueue",
+      "#buildinpublic",
+      "#indiedev",
+      "#technology",
+      "#startup",
+      "#opensource",
+      "#developer",
+      "#coding"
+    ],
+    "status": "PENDING",
+    "created_at": "2026-09-25T16:38:46.811Z",
+    "attempted_at": null,
+    "published_at": null,
+    "error": null,
+    "duration_seconds": 20
+  },
+  {
+    "project_id": "queue-test-project",
+    "project_name": "Queue Test Project",
+    "source_repository": "https://github.com/example/queue-test",
+    "video_path": "output/ready/queue-test.mp4",
+    "video_sha256": "sha256_mock_123",
+    "caption": "Test caption",
+    "hashtags": [
+      "#test"
+    ],
+    "status": "PENDING",
+    "created_at": "2026-09-25T16:47:57.240Z",
+    "attempted_at": null,
+    "published_at": null,
+    "error": null,
+    "duration_seconds": 20
+  },
+  {
+    "project_id": "retry-test",
+    "project_name": "Queue Test Project",
+    "source_repository": "https://github.com/example/queue-test",
+    "video_path": "output/ready/queue-test.mp4",
+    "video_sha256": "sha256_mock_123",
+    "caption": "Test caption",
+    "hashtags": [
+      "#test"
+    ],
+    "status": "PENDING",
+    "created_at": "2026-09-25T16:47:57.240Z",
+    "attempted_at": null,
+    "published_at": null,
+    "error": null,
+    "duration_seconds": 20
+  }
+]

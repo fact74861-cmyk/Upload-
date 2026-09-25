@@ -1,0 +1,62 @@
+[
+  {
+    "project_id": "test-project",
+    "video_sha256": "e73727ea7f26c36087c0864c3560b535f8af5e6c56a6f74807e833606a692c9e",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:47:57.239Z"
+  },
+  {
+    "project_id": "test-project",
+    "video_sha256": "c080806759d92c5a6f8a1d4647644c4893b103828b85d79cf81ee641c51592c4",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:47:50.159Z"
+  },
+  {
+    "project_id": "test-project",
+    "video_sha256": "f1a37b748333cee1882ec894f678b4e6ae4052fcd7513c33965522a4c9c7748f",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:47:20.944Z"
+  },
+  {
+    "project_id": "test-project",
+    "video_sha256": "965b3e434994842120a44c240e16bd717cda43701fc9a12250019bac0ea02a85",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:47:13.060Z"
+  },
+  {
+    "project_id": "persistence-test",
+    "video_sha256": "949f1bbcebbefd8805985beac13c65132d2436021404411d0d6209505ef5b9bf",
+    "video_path": "output/ready/persistence-test.mp4",
+    "published_at": "2026-09-25T16:43:16.727Z"
+  },
+  {
+    "project_id": "persistence-test",
+    "video_sha256": "949f1bbcebbefd8805985beac13c65132d2436021404411d0d6209505ef5b9bf",
+    "video_path": "output/ready/persistence-test.mp4",
+    "published_at": "2026-09-25T16:43:15.297Z"
+  },
+  {
+    "project_id": "test-job",
+    "video_sha256": "64fb9255f133653f687a987520e23f0c637e86637119311a9c64412cdc54d5a8",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:38:43.086Z"
+  },
+  {
+    "project_id": "test-job",
+    "video_sha256": "0659537ef22f0efa7c108f5f4c293dff54463f0cf265ed3e8aaf3e789653d735",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:38:19.631Z"
+  },
+  {
+    "project_id": "test-job",
+    "video_sha256": "19d99b85c2a4914a9a548a788ecd4ab84a525a20c09b0a708fe2d55a6907a2f7",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:38:11.978Z"
+  },
+  {
+    "project_id": "test-job",
+    "video_sha256": "19d99b85c2a4914a9a548a788ecd4ab84a525a20c09b0a708fe2d55a6907a2f7",
+    "video_path": "output/ready/test.mp4",
+    "published_at": "2026-09-25T16:38:01.305Z"
+  }
+]

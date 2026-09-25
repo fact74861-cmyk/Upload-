@@ -1,0 +1,5 @@
+Built something new 🚀
+
+High-throughput asynchronous memory queue with persistence and zero dependencies
+
+#fastqueue #buildinpublic #indiedev #technology #startup #opensource #developer #coding

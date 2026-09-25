@@ -1,0 +1,7 @@
+{
+  "name": "fast-queue",
+  "version": "1.0.0",
+  "description": "High-throughput asynchronous memory queue with persistence and zero dependencies",
+  "keywords": ["queue", "async", "performance", "database", "typescript"],
+  "license": "MIT"
+}

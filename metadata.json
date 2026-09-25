@@ -1,0 +1,6 @@
+{
+  "name": "Freebuff Cloud - Automated Reel Pipeline",
+  "description": "Generic automated short-video and Instagram Reel creation system for any GitHub repository powered by latent-spaces/brag and Freebuff Cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
